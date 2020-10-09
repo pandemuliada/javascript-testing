@@ -5,9 +5,11 @@
   "main": "index.js",
   "author": "Pande Muliada",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {},
   "devDependencies": {
-    "jest": "^26.5.2",
-    "test": "jest"
+    "jest": "^26.5.2"
   }
 }

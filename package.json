@@ -1,0 +1,13 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "Testing javascript with jest",
+  "main": "index.js",
+  "author": "Pande Muliada",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.5.2",
+    "test": "jest"
+  }
+}
